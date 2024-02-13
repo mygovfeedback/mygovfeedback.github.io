@@ -1,3 +1,1 @@
 Git clone https://github.com/mygovfeedback/mygovfeedback.github.io.git
-Cd mygovfeedback.github.io 
-echo "Hello World" > index.html
